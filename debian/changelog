@@ -1,0 +1,535 @@
+partitionmanager (24.12.3-0zneon+24.04+noble+release+build14) noble; urgency=medium
+
+  * Automatic CI Build
+
+ -- Neon CI <neon@kde.org>  Mon, 14 Apr 2025 18:24:16 +0000
+
+partitionmanager (24.12.3-0neon) noble; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 08 Mar 2025 13:37:42 +0000
+
+partitionmanager (24.12.2-0neon) noble; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 07 Feb 2025 14:46:31 +0000
+
+partitionmanager (24.12.1-0neon) noble; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 09 Jan 2025 19:37:37 +0000
+
+partitionmanager (24.12.0-0neon) noble; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 11 Dec 2024 18:35:15 +0000
+
+partitionmanager (24.08.3-0neon) noble; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 07 Nov 2024 10:34:21 +0000
+
+partitionmanager (24.08.2-0neon) noble; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 14 Oct 2024 21:07:06 +0000
+
+partitionmanager (24.08.1-0neon) noble; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sun, 22 Sep 2024 07:44:52 +0000
+
+partitionmanager (24.08.0-0neon) noble; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 19 Jun 2024 10:00:53 +0000
+
+partitionmanager (24.05.0-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 11 Apr 2024 11:36:16 +0000
+
+partitionmanager (24.02.1-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 20 Mar 2024 17:04:50 +0000
+
+partitionmanager (24.02.0-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Sat, 24 Feb 2024 03:50:07 +0000
+
+partitionmanager (23.08.5-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 19 Feb 2024 14:46:09 +0000
+
+partitionmanager (23.08.4-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 06 Dec 2023 16:28:42 +0000
+
+partitionmanager (23.08.3-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 10 Nov 2023 16:19:36 +0000
+
+partitionmanager (23.08.2-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 11 Oct 2023 17:05:38 +0000
+
+partitionmanager (23.08.1-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 14 Sep 2023 00:46:49 +0000
+
+partitionmanager (23.08.0-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 24 Aug 2023 09:33:05 +0000
+
+partitionmanager (23.04.3-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 06 Jun 2023 21:59:29 +0000
+
+partitionmanager (23.04.3-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 10 May 2023 18:20:14 +0000
+
+partitionmanager (23.04.3-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 19 Apr 2023 15:35:08 +0000
+
+partitionmanager (22.12.3-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 02 Mar 2023 12:46:30 +0000
+
+partitionmanager (22.12.2-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 01 Feb 2023 17:14:29 +0000
+
+partitionmanager (22.12.1-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 05 Jan 2023 15:51:02 +0000
+
+partitionmanager (22.12.0-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 07 Dec 2022 11:55:52 +0000
+
+partitionmanager (22.08.3-0neon) jammy; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 03 Nov 2022 09:22:34 +0000
+
+partitionmanager (22.08.3-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 14 Oct 2022 17:57:00 +0000
+
+partitionmanager (22.08.3-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 09 Sep 2022 12:12:08 +0000
+
+partitionmanager (22.08.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 18 Aug 2022 09:23:38 +0000
+
+partitionmanager (22.04.3-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 07 Jul 2022 12:08:58 +0000
+
+partitionmanager (22.04.2-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 07 Jun 2022 20:34:57 +0000
+
+partitionmanager (22.04.1-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 10 May 2022 13:30:47 +0000
+
+partitionmanager (22.04.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 18 Apr 2022 12:43:30 +0000
+
+partitionmanager (21.12.3-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 03 Mar 2022 11:04:13 +0000
+
+partitionmanager (21.12.2-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 03 Feb 2022 10:58:49 +0000
+
+partitionmanager (21.12.2-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 07 Jan 2022 11:10:33 +0000
+
+partitionmanager (21.12.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 02 Nov 2021 16:44:13 +0000
+
+partitionmanager (21.08.2-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 06 Oct 2021 12:33:40 +0000
+
+partitionmanager (21.08.1-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 01 Sep 2021 09:30:19 +0000
+
+partitionmanager (21.08.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 10 Aug 2021.12.26:12 +0000
+
+partitionmanager (21.04.3-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 12 Jul 2021 11:46:54 +0000
+
+partitionmanager (21.04.2-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 11 Jun 2021 08:18:55 +0000
+
+partitionmanager (21.04.1-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 13 May 2021 08:49:24 +0000
+
+partitionmanager (21.04.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Mon, 19 Apr 2021 10:17:23 +0000
+
+partitionmanager (20.12.3-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 03 Mar 2021 12:54:55 +0000
+
+partitionmanager (20.12.2-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Wed, 03 Feb 2021 11:10:44 +0000
+
+partitionmanager (20.12.1-0neon) focal; urgency=medium
+
+  [ Jonathan Riddell ]
+  * New release
+
+  [ Neon CI ]
+  * New release
+
+ -- Neon CI <neon@kde.org>  Thu, 07 Jan 2021.12.21:07 +0000
+
+partitionmanager (4.2.0-0neon) focal; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Fri, 16 Oct 2020 20:54:50 +0000
+
+partitionmanager (4.1.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Update standards version to 4.5.0
+  * Declare Rules-Requires-Root
+  * Update copyright years
+
+ -- Jonathan Carter <jcc@debian.org>  Mon, 24 Feb 2020 11:23:25 +0200
+
+partitionmanager (4.0.0-2) unstable; urgency=medium
+
+  * Set correct copyright information for appdata.xml in debian/copyright
+
+ -- Jonathan Carter <jcc@debian.org>  Wed, 23 Oct 2019 11:35:53 +0000
+
+partitionmanager (4.0.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Update standards version to 4.4.1
+  * Drop ancient versioned dependency on:
+    - pkg-kde-tools
+    - libkpmcore-dev
+    - libparted-dev
+  * Upgrade to debhelper-compat (12)
+  * Remove cdbs
+
+ -- Jonathan Carter <jcc@debian.org>  Mon, 14 Oct 2019 09:57:32 +0000
+
+partitionmanager (3.3.1-5) unstable; urgency=medium
+
+  * Fix bug number in previous changelog entry
+
+ -- Jonathan Carter <jcc@debian.org>  Sat, 01 Dec 2018 19:40:50 +0200
+
+partitionmanager (3.3.1-4) unstable; urgency=medium
+
+  * debian/control: Add btrfs-progs to suggests field
+    (Closes: #912990)
+
+ -- Jonathan Carter <jcc@debian.org>  Tue, 27 Nov 2018 10:18:20 +0200
+
+partitionmanager (3.3.1-3) unstable; urgency=medium
+
+  * Move git repository to salsa.debian.net
+  * Update standards version to 4.2.1
+  * Update maintainer team e-mail address
+
+ -- Jonathan Carter <jcc@debian.org>  Sat, 29 Sep 2018 14:49:40 +0200
+
+partitionmanager (3.3.1-2) unstable; urgency=medium
+
+  * Add required build-dependencies previously removed in error:
+    - libkf5iconthemes-dev
+    - libkf5kio-dev
+    - libkf5service-dev
+
+ -- Jonathan Carter <jcc@debian.org>  Fri, 09 Feb 2018 13:47:37 +0200
+
+partitionmanager (3.3.1-1) unstable; urgency=medium
+
+  * Upload to unstable (Closes: #888729)
+
+ -- Jonathan Carter <jcc@debian.org>  Fri, 09 Feb 2018 09:47:40 +0200
+
+partitionmanager (3.3.1-1~exp1) experimental; urgency=medium
+
+  * New upstream release
+  * Update standards version to 4.1.3
+  * Remove build-dependencies that are no longer required
+    - libkf5iconthemes-dev
+    - libkf5kio-dev
+    - libkf5service-dev
+
+ -- Jonathan Carter <jcc@debian.org>  Thu, 08 Feb 2018 04:20:17 -0500
+
+partitionmanager (3.2.1-3) unstable; urgency=medium
+
+  * Remove stale dependency kdelibs5-dev (Closes: #883592)
+  * Update standards version to 4.1.2
+
+ -- Jonathan Carter <jcc@debian.org>  Mon, 11 Dec 2017 21:01:43 +0200
+
+partitionmanager (3.2.1-2) unstable; urgency=medium
+
+  * Add version spec for libkpmcore-dev build-dependency
+
+ -- Jonathan Carter <jcc@debian.org>  Wed, 25 Oct 2017 09:20:59 +0200
+
+partitionmanager (3.2.1-1) unstable; urgency=medium
+
+  * New upstream release
+  * Update debian/copyright
+  * Update standards version to 4.1.1
+  * Build-depend on libparted-dev rather than libparted0-dev (Closes: 878627)
+  * Drop fdo-desktop-keywords patch (merged upstream)
+
+ -- Jonathan Carter <jcc@debian.org>  Mon, 16 Oct 2017 10:03:12 +0200
+
+partitionmanager (3.1.2-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Carter <jcc@debian.org>  Wed, 06 Sep 2017 15:08:50 +0200
+
+partitionmanager (3.1.0-1) unstable; urgency=medium
+
+  * New upstream release
+  * Update standards version to 4.1.0.0 (no changes)
+  * Update copyright years
+  * Set architecture to linux-any
+  * Update maintainer e-mail address
+
+ -- Jonathan Carter <jcc@debian.org>  Mon, 10 Jul 2017 14:36:42 +0200
+
+partitionmanager (3.0.1-1) experimental; urgency=medium
+
+  * Update to new upstream version
+  * Add libkpmcore4-dev as build-dependency
+  * Update fdo-keywords patch
+  * Update VCS URIs
+  * Remove lintian-overrides (no longer needed)
+
+ -- Jonathan Carter <jcarter@linux.com>  Wed, 22 Mar 2017 13:46:20 +0200
+
+partitionmanager (3.0.0-1) unstable; urgency=medium
+
+  * Update to new upstream version (Closes: #794438, #709474, LP: #1635756)
+  * Update standards version to 3.9.8
+  * Remove patches (no longer needed)
+  * Update compat to level 10
+  * Fix watch file (Closes: #788701)
+  * Replace ntfsprogs dependency with ntfs-3g (Closes: #731957)
+  * Fix typo with partition in control (Closes: 745290)
+  * New build-deps: extra-cmake-modules, qtbase5-dev, libkf5widgetsaddons-dev,
+                    libkf5xmlgui-dev, libkf5kiocore5, libkf5config-dev,
+                    libkf5crash-dev, libkf5doctools-dev, libkf5jobwidgets-dev,
+                    libkf5kio-dev, libkpmcore4-dev, libatasmart-dev
+  * wrap-and-sort
+  * Update homepage to new location on kde.org
+  * Update copyright file to machine readable format
+  * Add hardening export to debian/rules
+  * Remove 3 lintian-overrides (no longer needed)
+  * Add lintian override for insecure VCS URI
+  * Remove maintainer scripts (no longer needed)
+  * Add myself as uploader
+
+ -- Jonathan Carter <jcarter@linux.com>  Sat, 24 Dec 2016 18:15:08 +0200
+
+partitionmanager (1.0.3-2.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Backport support for libparted 3.1 from upstream (closes: #754580).
+  * Include cmake module needed for CHECK_FUNCTION_EXISTS.
+
+ -- Colin Watson <cjwatson@debian.org>  Sat, 19 Jul 2014 23:05:50 +0100
+
+partitionmanager (1.0.3-2) unstable; urgency=low
+
+  * Upload to unstable
+  * Update debian/control - Standards-Version & Vcs
+
+ -- Mark Purcell <msp@debian.org>  Sun, 12 May 2013 10:14:07 +1000
+
+partitionmanager (1.0.3-1) experimental; urgency=low
+
+  * New upstream release 
+    - Drop 01_ftbfs_binutils-gold.diff
+  * Add myself to Uploaders
+  * Added Vcs fields
+  * Updated Description - fixes description-synopsis-starts-with-article
+  * debian/compat -> 9
+
+ -- Mark Purcell <msp@debian.org>  Sun, 21 Apr 2013 09:22:56 +1000
+
+partitionmanager (1.0.2-1) unstable; urgency=low
+
+  * New upstream release.
+  * Explicitly add cmake to build dependencies.
+
+ -- George Kiagiadakis <gkiagiad@csd.uoc.gr>  Wed, 12 May 2010 13:14:01 +0300
+
+partitionmanager (1.0.1-2) unstable; urgency=low
+
+  [ George Kiagiadakis ]
+  * Remove the udev suggest since vol_id is now gone from udev and
+    partitionmanager can use blkid from util-linux, which is essential.
+
+  [ Fathi Boudra ]
+  * Add 01_ftbfs_binutils-gold patch. (Closes: #556051)
+  * Build against parted 2.2. (Closes: #574907)
+  * Bump standards-version to 3.8.4 (no changes needed).
+
+ -- Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>  Tue, 23 Mar 2010 09:24:08 +0100
+
+partitionmanager (1.0.1-1) unstable; urgency=low
+
+  * New upstream release.
+
+  [ José Manuel Santamaría Lema ]
+  * Add uversionmangle=s/-/~/;y/A-Z/a-z/ to watch file.
+
+  [ George Kiagiadakis ]
+  * Update copyright years.
+
+ -- George Kiagiadakis <gkiagiad@csd.uoc.gr>  Sat, 23 Jan 2010 14:06:33 +0200
+
+partitionmanager (1.0.0-1) unstable; urgency=low
+
+  * New upstream release.
+  * Bump standards-version to 3.8.3 (no changes required).
+
+ -- George Kiagiadakis <gkiagiad@csd.uoc.gr>  Sun, 23 Aug 2009 15:08:57 +0300
+
+partitionmanager (1.0.0~rc1-1) unstable; urgency=low
+
+  * New upstream release candidate.
+  * Disable building the partitionmanager kcm, as it
+    is requires systemsettings to be running as root and
+    it ends up being just confusing and not useful at all.
+
+ -- George Kiagiadakis <gkiagiad@csd.uoc.gr>  Sat, 15 Aug 2009 19:26:29 +0300
+
+partitionmanager (1.0.0~beta3-1) unstable; urgency=low
+
+  * New upstream beta release.
+  * Bump standards-version to 3.8.2 (No changes required).
+  * As a side effect, package will be rebuilt against
+    libparted1.8-12. (Closes: #534252)
+
+ -- George Kiagiadakis <gkiagiad@csd.uoc.gr>  Tue, 23 Jun 2009 18:51:47 +0300
+
+partitionmanager (1.0.0~beta2-1) unstable; urgency=low
+
+  * New upstream beta release.
+  * Bump standards-version to 3.8.1.
+
+ -- George Kiagiadakis <gkiagiad@csd.uoc.gr>  Mon, 01 Jun 2009 18:17:12 +0300
+
+partitionmanager (1.0.0~beta1a-1) unstable; urgency=low
+
+  * Initial release (Closes: #512097)
+
+ -- George Kiagiadakis <gkiagiad@csd.uoc.gr>  Wed, 15 Apr 2009 23:02:49 +0300
