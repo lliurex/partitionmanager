@@ -1,0 +1,61 @@
+Source: partitionmanager
+Section: admin
+Priority: optional
+Uploaders: Mark Purcell <msp@debian.org>,
+           George Kiagiadakis <gkiagiad@csd.uoc.gr>,
+           Jonathan Carter <jcc@debian.org>
+Build-Depends: cmake,
+               debhelper-compat (= 13),
+               kf6-extra-cmake-modules,
+               kf6-kconfig-dev,
+               kf6-kconfigwidgets-dev,
+               kf6-kcoreaddons-dev,
+               kf6-kcrash-dev,
+               kf6-kdoctools-dev,
+               kf6-ki18n-dev,
+               kf6-kiconthemes-dev,
+               kf6-kio-dev,
+               kf6-kjobwidgets-dev,
+               kf6-kservice-dev,
+               kf6-kwidgetsaddons-dev,
+               kf6-kxmlgui-dev,
+               libatasmart-dev,
+               libblkid-dev,
+               libkpmcore-dev,
+               libparted-dev,
+               libpolkit-qt6-1-dev,
+               pkg-kde-tools-neon,
+               pkgconf,
+               qt6-base-dev,
+               uuid-dev
+Standards-Version: 4.6.2
+Rules-Requires-Root: no
+Homepage: https://www.kde.org/applications/system/kdepartitionmanager
+Vcs-Git: https://invent.kde.org/neon/extras/partitionmanager.git
+Vcs-Browser: https://invent.kde.org/neon/extras/partitionmanager
+Maintainer: Neon CI <neon@kde.org>
+
+Package: partitionmanager
+Architecture: linux-any
+Depends: fdisk, ${misc:Depends}, ${shlibs:Depends}
+Suggests: btrfs-progs,
+          dosfstools,
+          hfsplus,
+          hfsutils,
+          jfsutils,
+          ntfs-3g,
+          reiser4progs,
+          reiserfsprogs,
+          xfsprogs
+Description: file, disk and partition management for KDE
+ Partition Manager is a utility program to help you manage the disk devices,
+ partitions and file systems on your computer. It allows you to easily create,
+ copy, move, delete, resize without losing data, backup and restore partitions.
+ .
+ Partition Manager supports a large number of file systems, including ext2/3/4,
+ reiserfs, NTFS, FAT16/32, jfs, xfs and more. Note that to gain support for a
+ specific file system other than ext2/3/4, you should install the corresponding
+ suggested package.
+ .
+ Partition Manager is based on libparted (like gparted) and makes use of the
+ KDE libraries for its user interface.
